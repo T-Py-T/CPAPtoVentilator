@@ -1,5 +1,5 @@
 /*
-  AES Controls, CPAP Ventilator Controller program
+  CPAP Ventilator Controller program
   Written : 20200328
   Updated : 20201020 Broke up Main file into modules (Built to Teensy)
   NHD 230128WG-BTFH-VZ Monochrome LCD Display (U8g2lib Drivers)

@@ -1,5 +1,6 @@
 /*
-  AES Controls, PPAP Ventilator Upgrade program
+  PPAP Ventilator Upgrade program
+  TESTS ALL INPUTS AND OUTPUTS FOR THE FINISHED DEVICE
   Written : 20200328
   Updated : 20200406 (Built to Teensy)
   Hardware:

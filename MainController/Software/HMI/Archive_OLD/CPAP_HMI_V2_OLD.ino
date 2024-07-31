@@ -1,5 +1,5 @@
 /*
-  AES Controls, PPAP Ventilator Upgrade program
+  PPAP Ventilator Upgrade program
   Written : 20200328
   Updated : 20201230(Built to Teensy)
   Update Notes :
@@ -23,7 +23,7 @@
 #include <ClickButton.h>
 #include <Encoder.h>
 #include <U8g2lib.h>
-#include "aes_logo.h"
+#include "logo.h"
 #include <FastPID.h>
 #include <movingAvg.h>
 #include <CircularBuffer.h>

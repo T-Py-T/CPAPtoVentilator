@@ -1,5 +1,6 @@
 /*
-  AES Controls, PPAP Ventilator Upgrade program
+  PPAP Ventilator Upgrade program
+  USED TO VALIDATE A COMPLETED UNIT (Run through provided range a and test all functions)
   Written : 20200328
   Updated : 20200406 (Built to Teensy)
   Hardware:
@@ -13,7 +14,7 @@
 
 //Additional Written Libraries
 #include "sensirion3200.h"
-#include "aes_logo.h"
+#include "logo.h"
 
 // Additional Installed
 #include <SimpleRotary.h>
